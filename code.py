@@ -1,7 +1,5 @@
 import random as ra
-
-from demo import *
-
+import demo
 
 data = demo.data
 
